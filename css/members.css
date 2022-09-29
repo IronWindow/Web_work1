@@ -1,0 +1,30 @@
+
+.header{
+    text-align: center;
+}
+.all_members{
+    justify-content:space-between;
+    display: flex;
+}
+.text_member_1{
+    text-align: center;
+}
+.member_block{
+    text-align: center;
+}
+figure{
+    font-size: larger;
+    font-weight: 500;
+}
+h1{
+    text-align: center;
+    font-size:xx-large;
+    display : inline
+} 
+h2{
+    text-align: center;
+    font-size: small;
+    display : inline;
+    color: orange;
+    border: 1em;
+}

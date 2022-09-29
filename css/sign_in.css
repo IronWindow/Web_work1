@@ -1,0 +1,17 @@
+.header{
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: flex-end;
+}
+
+.left{
+    margin-left:auto;
+}
+.slogan{
+    text-align: center;
+    font-size: 3em;
+    font-weight: 300;
+}
+.sub{
+    font-size: larger;
+}
