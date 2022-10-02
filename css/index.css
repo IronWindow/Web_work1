@@ -9,7 +9,7 @@
     font: weight 450px;
     position:absolute;
     top: 30px;
-    left: 965px;
+    left: 953px;
 
 }
 
@@ -20,7 +20,7 @@ h1 {
     font-size: 8em;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     position: relative;
-    top: 45px;
+    top: 20px;
     
 }
 
@@ -28,5 +28,20 @@ h2{
     text-align: center;
     color: black;
     font-size: 3em;
+    position: absolute;
+    left: 850px;
+    top: 230px;
+}
+
+.tag{
     
+        display: flex;
+        flex-wrap: nowrap;
+        align-items: flex-end;
+}
+
+.link{
+    color: white;
+    font-size:larger;
+    text-decoration-line: none；
 }
