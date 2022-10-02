@@ -15,12 +15,13 @@
 
 
 h1 {
-    text-align: center;
+    
     color: black;
     font-size: 8em;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    position: relative;
+    position: absolute;
     top: 20px;
+    left: 700px;
     
 }
 
