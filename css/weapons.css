@@ -1,0 +1,83 @@
+
+.header{
+    text-align: center;
+}
+.all_members{
+    justify-content:space-between;
+    display: flex;
+}
+.text_member_1{
+    text-align: center;
+}
+.member_block{
+    text-align: center;
+}
+figure{
+    font-size: larger;
+    font-weight: 500;
+}
+h1{
+    text-align: center;
+    font-size:xx-large;
+    display : inline
+} 
+h2{
+    text-align: center;
+    font-size: small;
+    display : inline;
+    color: orange;
+    border: 1em;
+}
+
+.header1{
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: flex-end;
+}
+.sub{
+  font-size: larger;
+}
+.left{
+    margin-left:auto;
+}
+table {
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+    border: 3px solid purple;
+  }
+thead th:nth-child(1) {
+    width: 15%;
+  }
+thead th:nth-child(2) {
+    width: 20%;
+  }
+  
+thead th:nth-child(3) {
+    width: 15%;
+  }
+  
+thead th:nth-child(4) {
+    width: 50%;
+  }
+th,td {
+  padding: 20px;
+}
+th {
+    letter-spacing: 2px;
+  }
+  
+  td {
+    letter-spacing: 1px;
+  }
+.description{
+    text-align:left;
+}
+tbody td {
+    text-align: center;
+  }
+caption{
+    font-size:xx-large;
+    font-weight: 500;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
